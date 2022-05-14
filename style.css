@@ -1,0 +1,112 @@
+
+
+header {
+    position: fixed !important;
+    z-index: 1000000;
+}
+
+
+.col h1 {
+    width: 500px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    left: 292px;
+    position: relative;
+    top: 40px;
+    color: rgb(60, 214, 109);
+
+}
+
+.col {
+    display: flex;
+}
+
+.image1{
+    width: 95px;
+    height: 95px;
+    position: relative;
+    left: 20px;
+
+}
+
+.image2 {
+    width: 144px;
+    height: 85px;
+    position: relative;
+    left: 540px;
+}
+
+.formulaire {
+    position: relative;
+    top: 185px;
+    width: 100%;
+    height: 400px;
+}
+
+button.button {
+    border-radius: 30px;
+    color: rgb(253, 255, 253);
+    background-color: rgb(96, 235, 110);
+}
+
+footer {
+    width: auto;
+    height: 50px;
+    background-color: rgb(97, 241, 121);
+    position: relative;
+    top: 160px;
+}
+
+
+footer h2 {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
+.connexion {
+    position: relative;
+    top: 110px;
+    left: 1000px;
+    border-radius: 30px;
+    color: rgb(253, 255, 253);
+    background-color: rgb(96, 235, 110);
+}
+
+.connexion a {
+    text-decoration: none;
+}
+
+/*section index.html*/
+
+
+.accueil a {
+    position: relative;
+    top: 200px;
+    left: 60px;
+
+}
+
+.footer_index {
+    width: auto;
+    height: 50px;
+    background-color: rgb(97, 241, 121);
+    position: relative;
+    top: 550px;
+
+}
+
+/*page ajouter.html*/
+
+.footer_enregistrement {
+    width: auto;
+    height: 50px;
+    background-color: rgb(97, 241, 121);
+    position: relative;
+    top: 220px;
+
+}
